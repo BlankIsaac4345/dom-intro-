@@ -23,6 +23,5 @@ function handleClick() {
     if (clicks == 10) {
         alert("Congrats you reached level 2 you do 2 per click now!");
         // upgrade click counter
-        click
     }
 }
