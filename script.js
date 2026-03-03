@@ -18,4 +18,11 @@ function handleClick() {
 
     // update display
     clickDisplay.innerText = "Clicks: " + clicks;
+
+    // dectect whe you reach 10 clicks
+    if (clicks == 10) {
+        alert("Congrats you reached level 2 you do 2 per click now!");
+        // upgrade click counter
+        click
+    }
 }
